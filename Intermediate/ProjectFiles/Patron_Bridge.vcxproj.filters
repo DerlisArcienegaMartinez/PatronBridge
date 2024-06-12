@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Patron_Bridge.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C0DF8AA1-4796-4D6B-92E9-CCE0EF909464}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Patron_Bridge.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Patron_BridgeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F77D4705-D292-4667-BF34-9AEC70DD9065}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Patron_Bridge">
+      <UniqueIdentifier>{B2BD45DF-C79B-4D69-9AA3-2CDD72B4C5DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Patron_Bridge\ImplementacionMovimiento.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\ImplementacionMovimiento.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\MovimientoAleatorio.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\MovimientoAleatorio.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\MovimientoLineal.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\MovimientoLineal.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\MovimientoZigZag.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\MovimientoZigZag.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\NaveEnemiga.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\NaveEnemiga.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\NaveEnemigaCaza.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\NaveEnemigaCaza.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\NaveEnemigaGuerrera.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\NaveEnemigaGuerrera.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Patron_Bridge\Patron_Bridge.Build.cs">
+      <Filter>Source\Patron_Bridge</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Patron_Bridge\Patron_Bridge.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\Patron_Bridge.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\Patron_BridgeGameMode.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\Patron_BridgeGameMode.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\Patron_BridgePawn.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\Patron_BridgePawn.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Bridge\Patron_BridgeProjectile.cpp">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Bridge\Patron_BridgeProjectile.h">
+      <Filter>Source\Patron_Bridge</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
